@@ -95,52 +95,49 @@
 <tr>
 <td width="50%" valign="top" align="center">
 
-<img src="https://opengraph.githubassets.com/1/adityaverma11/Fab4-KLA-ImageRestoration" width="100%" style="border-radius:10px;"/>
 
 ### 🔬 Fab4-KLA-ImageRestoration
 Advanced **NAFNet-SR image restoration pipeline** for semiconductor / SEM images.
 
 `PyTorch` · `Deep Learning` · `Super Resolution` · `Denoising`
 
-**[View Project →](https://github.com/adityaverma11/Fab4-KLA-ImageRestoration)**
+**[View Project →](https://github.com/adityverma11/Fab4-KLA-ImageRestoration)**
 
 </td>
 <td width="50%" valign="top" align="center">
 
-<img src="https://opengraph.githubassets.com/1/adityaverma11/silicon_forge_PS01_defect_detection" width="100%" style="border-radius:10px;"/>
+
 
 ### 🧪 Silicon Forge – PS01
 AI-powered **wafer defect detection** system for semiconductor manufacturing.
 
 `C++` · `MobileNetV3` · `Computer Vision` · `AI/ML`
 
-**[View Project →](https://github.com/adityaverma11/silicon_forge_PS01_defect_detection)**
+**[View Project →](https://github.com/adityverma11/silicon_forge_PS01_defect_detection)**
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top" align="center">
 
-<img src="https://opengraph.githubassets.com/1/adityaverma11/Design-16-Bit-RISC-Processor-Using-Verilog-HDL-on-Vivado" width="100%" style="border-radius:10px;"/>
+
 
 ### 🖥️ 16-Bit RISC Processor
 A **16-bit RISC processor** implemented using Verilog HDL and tested on Xilinx Vivado.
 
 `Verilog` · `ALU` · `Control Unit` · `Registers` · `Vivado`
 
-**[View Project →](https://github.com/adityaverma11/Design-16-Bit-RISC-Processor-Using-Verilog-HDL-on-Vivado)**
+**[View Project →](https://github.com/adityverma11/Design-16-Bit-RISC-Processor-Using-Verilog-HDL-on-Vivado)**
 
 </td>
 <td width="50%" valign="top" align="center">
-
-<img src="https://opengraph.githubassets.com/1/adityaverma11/Design-Vending-Machine-Using-HDL-bits-on-Vivado" width="100%" style="border-radius:10px;"/>
 
 ### 🎰 Vending Machine using HDL
 Digital **Vending Machine controller** designed using Verilog/HDL, tested on Vivado.
 
 `Verilog` · `FSM` · `Digital Logic` · `Vivado`
 
-**[View Project →](https://github.com/adityaverma11/Design-Vending-Machine-Using-HDL-bits-on-Vivado)**
+**[View Project →](https://github.com/adityverma11/Design-Vending-Machine-Using-HDL-bits-on-Vivado)**
 
 </td>
 </tr>
