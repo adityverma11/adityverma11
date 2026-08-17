@@ -24,7 +24,7 @@ and <b>AI-powered solutions</b> that solve real-world problems.
 <tr>
 <td width="30%" align="center">
 
-<img src="https://raw.githubusercontent.com/adityaverma11/adityaverma11/main/WhatsApp%20Image%202026-08-17%20at%209.54.18%20PM.jpeg" width="250"/>
+<img src="https://raw.githubusercontent.com/adityverma11/adityverma11/main/WhatsApp%20Image%202026-08-17%20at%209.54.18%20PM.jpeg" width="250"/>
 
 </td>
 
