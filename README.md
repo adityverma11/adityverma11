@@ -1,95 +1,54 @@
 <div align="center">
 
-# 👋 Hi, I'm Aditya Verma
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Aditya%20Verma&fontSize=50&fontColor=00E5FF&animation=fadeIn&fontAlignY=38&desc=ECE%20Student%20%7C%20VLSI%20Enthusiast%20%7C%20AI%2FML%20Explorer&descAlignY=58&descSize=18" width="100%"/>
 
-### ECE Student | VLSI Enthusiast | AI/ML Explorer
-
-<p>
-Electronics & Communication Engineering student at <b>IIIT Guwahati</b><br>
-Passionate about <b>Digital Design, VLSI, Semiconductor Technologies</b><br>
-and <b>AI-powered solutions</b> that solve real-world problems.
-</p>
-
-<p>
 <a href="https://linkedin.com/in/aditya-verma-913b56336">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Available%20for%20Opportunities-00E676?style=for-the-badge&logo=checkmarx&logoColor=white" />
 </a>
-</p>
+
+<br/><br/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=600&lines=Digital+Design+%26+VLSI+Enthusiast;Semiconductor+Systems+Explorer;AI%2FML+%2B+Hardware+Integration;Building+Real-World+Engineering+Projects" alt="Typing SVG" />
+</a>
 
 </div>
 
 ---
+
+## 🧑‍💻 About Me
 
 <table>
 <tr>
 <td width="30%" align="center">
 
-<img src="https://raw.githubusercontent.com/adityverma11/adityverma11/main/WhatsApp%20Image%202026-08-17%20at%209.54.18%20PM.jpeg" width="250"/>
+<img src="https://raw.githubusercontent.com/adityverma11/adityverma11/main/WhatsApp%20Image%202026-08-17%20at%209.54.18%20PM.jpeg" width="230" style="border-radius:12px;"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/VLSI%20%26%20Digital%20Design-00E5FF?style=for-the-badge&logo=chip&logoColor=black"/><br/>
+<img src="https://img.shields.io/badge/AI%20%2F%20Machine%20Learning-00E676?style=for-the-badge&logo=pytorch&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Semiconductor%20Systems-FFC107?style=for-the-badge&logo=intel&logoColor=black"/><br/>
+<img src="https://img.shields.io/badge/Problem%20Solving-FF4081?style=for-the-badge&logo=leetcode&logoColor=white"/>
 
 </td>
-
 <td width="70%">
 
-## 🧑‍💻 About Me
-
-🎓 **3rd Year ECE Student** at IIIT Guwahati
+🎓 **3rd Year ECE Student** at **IIIT Guwahati**
 
 🔬 Interested in **VLSI & Semiconductor Systems**
 
-🤖 Exploring **AI / Machine Learning**
+🤖 Exploring **AI / Machine Learning** and **Deep Learning**
 
-💻 Interested in **Hardware + Software Integration**
+💻 Passionate about **Hardware + Software Integration**
 
-🚀 Building practical engineering projects
+🚀 Building practical, real-world engineering projects
 
-📚 Currently exploring **Digital Design, VLSI, AI/ML & Deep Learning**
+📚 Currently deep-diving into **Digital Design, VLSI, AI/ML & Deep Learning**
 
-</td>
-</tr>
-</table>
+<br/>
 
----
-
-# 🛠️ Tech Stack
-
-<table>
-<tr>
-<td><b>Languages</b></td>
-<td>
-
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Verilog](https://img.shields.io/badge/Verilog-1F425F?style=for-the-badge)
-![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge&logo=mathworks&logoColor=white)
-
-</td>
-</tr>
-
-<tr>
-<td><b>AI / ML</b></td>
-<td>
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-
-</td>
-</tr>
-
-<tr>
-<td><b>VLSI / Hardware</b></td>
-<td>
-
-![Verilog](https://img.shields.io/badge/Verilog-HDL-1F425F?style=for-the-badge)
-![Vivado](https://img.shields.io/badge/Xilinx-Vivado-FF1010?style=for-the-badge)
-
-</td>
-</tr>
-
-<tr>
-<td><b>Tools</b></td>
-<td>
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+> *"Building at the intersection of Hardware, VLSI & AI"* ⚡
 
 </td>
 </tr>
@@ -97,112 +56,131 @@ and <b>AI-powered solutions</b> that solve real-world problems.
 
 ---
 
-# 🚀 Featured Projects
-
-<table>
-<tr>
-
-<td width="50%">
-
-### 🔬 Fab4-KLA-ImageRestoration
-
-Advanced **NAFNet-SR image restoration pipeline** for semiconductor / SEM images.
-
-**Tech:** PyTorch • Deep Learning • Super Resolution • Denoising
-
-<a href="https://github.com/adityaverma11/Fab4-KLA-ImageRestoration">
-View Project →
-</a>
-
-</td>
-
-<td width="50%">
-
-### 🧪 Silicon Forge – PS01
-
-AI-powered **wafer defect detection** system for semiconductor manufacturing.
-
-**Tech:** C++ • MobileNetV3 • Computer Vision • AI/ML
-
-<a href="https://github.com/adityaverma11/silicon_forge_PS01_defect_detection">
-View Project →
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-### 🖥️ 16-Bit RISC Processor
-
-A **16-bit RISC processor** implemented using Verilog HDL and tested using Xilinx Vivado.
-
-**Tech:** Verilog • ALU • Control Unit • Registers • Vivado
-
-<a href="https://github.com/adityaverma11/Design-16-Bit-RISC-Processor-Using-Verilog-HDL-on-Vivado">
-View Project →
-</a>
-
-</td>
-
-<td width="50%">
-
-### 🎰 Vending Machine using HDL
-
-Digital **Vending Machine controller** designed using Verilog/HDL and tested using Vivado.
-
-**Tech:** Verilog • FSM • Digital Logic • Vivado
-
-<a href="https://github.com/adityaverma11/Design-Vending-Machine-Using-HDL-bits-on-Vivado">
-View Project →
-</a>
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 📊 GitHub Statistics
+## 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=adityaverma11&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+**Languages**
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=adityaverma11&theme=tokyonight&hide_border=true" width="48%"/>
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Verilog](https://img.shields.io/badge/Verilog-1F425F?style=for-the-badge&logo=v&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge&logo=mathworks&logoColor=white)
+
+**AI / ML**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+**VLSI / Hardware**
+
+![Verilog HDL](https://img.shields.io/badge/Verilog-HDL-1F425F?style=for-the-badge)
+![Vivado](https://img.shields.io/badge/Xilinx-Vivado-FF1010?style=for-the-badge)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
 
 ---
 
-# 🌱 Currently Exploring
+## 🚀 Featured Projects
 
 <table>
 <tr>
-<td align="center">🔬<br><b>VLSI</b></td>
-<td align="center">💻<br><b>Digital Design</b></td>
-<td align="center">🤖<br><b>AI / ML</b></td>
-<td align="center">🧠<br><b>Deep Learning</b></td>
-<td align="center">⚡<br><b>Hardware + AI</b></td>
+<td width="50%" valign="top">
+
+### 🔬 Fab4-KLA-ImageRestoration
+Advanced **NAFNet-SR image restoration pipeline** for semiconductor / SEM images.
+
+`PyTorch` · `Deep Learning` · `Super Resolution` · `Denoising`
+
+**[View Project →](https://github.com/adityaverma11/Fab4-KLA-ImageRestoration)**
+
+</td>
+<td width="50%" valign="top">
+
+### 🧪 Silicon Forge – PS01
+AI-powered **wafer defect detection** system for semiconductor manufacturing.
+
+`C++` · `MobileNetV3` · `Computer Vision` · `AI/ML`
+
+**[View Project →](https://github.com/adityaverma11/silicon_forge_PS01_defect_detection)**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🖥️ 16-Bit RISC Processor
+A **16-bit RISC processor** implemented using Verilog HDL and tested on Xilinx Vivado.
+
+`Verilog` · `ALU` · `Control Unit` · `Registers` · `Vivado`
+
+**[View Project →](https://github.com/adityaverma11/Design-16-Bit-RISC-Processor-Using-Verilog-HDL-on-Vivado)**
+
+</td>
+<td width="50%" valign="top">
+
+### 🎰 Vending Machine using HDL
+Digital **Vending Machine controller** designed using Verilog/HDL, tested on Vivado.
+
+`Verilog` · `FSM` · `Digital Logic` · `Vivado`
+
+**[View Project →](https://github.com/adityaverma11/Design-Vending-Machine-Using-HDL-bits-on-Vivado)**
+
+</td>
 </tr>
 </table>
 
 ---
 
-# 🤝 Connect With Me
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=adityaverma11&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E676&text_color=C9D1D9" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=adityaverma11&theme=tokyonight&hide_border=true&background=0D1117&ring=00E5FF&fire=FF4081&currStreakLabel=00E5FF" width="48%"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=adityaverma11&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00E5FF&line=00E676&point=FFC107" width="98%"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaverma11&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9" width="48%"/>
+
+</div>
+
+---
+
+## 🌱 Currently Exploring
+
+<div align="center">
+
+| 🔬 VLSI | 💻 Digital Design | 🤖 AI / ML | 🧠 Deep Learning | ⚡ Hardware + AI |
+|:---:|:---:|:---:|:---:|:---:|
+
+</div>
+
+---
+
+## 🤝 Connect With Me
 
 <div align="center">
 
 <a href="https://linkedin.com/in/aditya-verma-913b56336">
-<img src="https://img.shields.io/badge/LinkedIn-Aditya%20Verma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Aditya%20Verma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="https://github.com/adityaverma11">
-<img src="https://img.shields.io/badge/GitHub-adityaverma11-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-adityaverma11-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="mailto:adityaverma11@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
@@ -211,8 +189,10 @@ View Project →
 
 <div align="center">
 
-### 💡 Building at the intersection of **Hardware, VLSI & AI**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2500&pause=1000&color=00E676&center=true&vCenter=true&width=500&lines=Keep+coding+and+keep+building!+%F0%9F%92%9A" alt="Footer Typing SVG"/>
 
 ⭐ *Feel free to explore my repositories!*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer" width="100%"/>
 
 </div>
