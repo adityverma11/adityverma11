@@ -5,12 +5,20 @@
 <a href="https://linkedin.com/in/aditya-verma-913b56336">
   <img src="https://img.shields.io/badge/-Available%20for%20Opportunities-00E676?style=for-the-badge&logo=checkmarx&logoColor=white" />
 </a>
+<img src="https://komarev.com/ghpvc/?username=adityaverma11&style=for-the-badge&color=00E5FF&label=PROFILE+VIEWS"/>
 
 <br/><br/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=600&lines=Digital+Design+%26+VLSI+Enthusiast;Semiconductor+Systems+Explorer;AI%2FML+%2B+Hardware+Integration;Building+Real-World+Engineering+Projects" alt="Typing SVG" />
 </a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/VLSI%20%26%20Digital%20Design-0D1117?style=flat-square&logo=chip&logoColor=00E5FF&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/AI%20%2F%20Machine%20Learning-0D1117?style=flat-square&logo=pytorch&logoColor=00E676&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Semiconductor%20Systems-0D1117?style=flat-square&logo=intel&logoColor=FFC107&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Problem%20Solving-0D1117?style=flat-square&logo=leetcode&logoColor=FF4081&labelColor=0D1117"/>
 
 </div>
 
@@ -23,13 +31,6 @@
 <td width="30%" align="center">
 
 <img src="https://raw.githubusercontent.com/adityverma11/adityverma11/main/WhatsApp%20Image%202026-08-17%20at%209.54.18%20PM.jpeg" width="230" style="border-radius:12px;"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/VLSI%20%26%20Digital%20Design-00E5FF?style=for-the-badge&logo=chip&logoColor=black"/><br/>
-<img src="https://img.shields.io/badge/AI%20%2F%20Machine%20Learning-00E676?style=for-the-badge&logo=pytorch&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/Semiconductor%20Systems-FFC107?style=for-the-badge&logo=intel&logoColor=black"/><br/>
-<img src="https://img.shields.io/badge/Problem%20Solving-FF4081?style=for-the-badge&logo=leetcode&logoColor=white"/>
 
 </td>
 <td width="70%">
@@ -92,7 +93,9 @@
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
+
+<img src="https://opengraph.githubassets.com/1/adityaverma11/Fab4-KLA-ImageRestoration" width="100%" style="border-radius:10px;"/>
 
 ### 🔬 Fab4-KLA-ImageRestoration
 Advanced **NAFNet-SR image restoration pipeline** for semiconductor / SEM images.
@@ -102,7 +105,9 @@ Advanced **NAFNet-SR image restoration pipeline** for semiconductor / SEM images
 **[View Project →](https://github.com/adityaverma11/Fab4-KLA-ImageRestoration)**
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
+
+<img src="https://opengraph.githubassets.com/1/adityaverma11/silicon_forge_PS01_defect_detection" width="100%" style="border-radius:10px;"/>
 
 ### 🧪 Silicon Forge – PS01
 AI-powered **wafer defect detection** system for semiconductor manufacturing.
@@ -114,7 +119,9 @@ AI-powered **wafer defect detection** system for semiconductor manufacturing.
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
+
+<img src="https://opengraph.githubassets.com/1/adityaverma11/Design-16-Bit-RISC-Processor-Using-Verilog-HDL-on-Vivado" width="100%" style="border-radius:10px;"/>
 
 ### 🖥️ 16-Bit RISC Processor
 A **16-bit RISC processor** implemented using Verilog HDL and tested on Xilinx Vivado.
@@ -124,7 +131,9 @@ A **16-bit RISC processor** implemented using Verilog HDL and tested on Xilinx V
 **[View Project →](https://github.com/adityaverma11/Design-16-Bit-RISC-Processor-Using-Verilog-HDL-on-Vivado)**
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
+
+<img src="https://opengraph.githubassets.com/1/adityaverma11/Design-Vending-Machine-Using-HDL-bits-on-Vivado" width="100%" style="border-radius:10px;"/>
 
 ### 🎰 Vending Machine using HDL
 Digital **Vending Machine controller** designed using Verilog/HDL, tested on Vivado.
@@ -148,11 +157,7 @@ Digital **Vending Machine controller** designed using Verilog/HDL, tested on Viv
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=adityaverma11&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00E5FF&line=00E676&point=FFC107" width="98%"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaverma11&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaverma11&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9" width="60%"/>
 
 </div>
 
