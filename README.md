@@ -5,7 +5,7 @@
 <a href="https://linkedin.com/in/aditya-verma-913b56336">
   <img src="https://img.shields.io/badge/-Available%20for%20Opportunities-00E676?style=for-the-badge&logo=checkmarx&logoColor=white" />
 </a>
-<img src="https://komarev.com/ghpvc/?username=adityaverma11&style=for-the-badge&color=00E5FF&label=PROFILE+VIEWS"/>
+
 
 <br/><br/>
 
@@ -148,20 +148,6 @@ Digital **Vending Machine controller** designed using Verilog/HDL, tested on Viv
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=adityaverma11&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E676&text_color=C9D1D9" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=adityaverma11&theme=tokyonight&hide_border=true&background=0D1117&ring=00E5FF&fire=FF4081&currStreakLabel=00E5FF" width="48%"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaverma11&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9" width="60%"/>
-
-</div>
-
----
 
 ## 🌱 Currently Exploring
 
